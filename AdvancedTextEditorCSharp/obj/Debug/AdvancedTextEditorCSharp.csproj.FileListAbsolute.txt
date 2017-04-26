@@ -1,0 +1,8 @@
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.exe
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\bin\Debug\AdvancedTextEditorCSharp.pdb
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csprojResolveAssemblyReference.cache
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.AdvancedTextEditor.resources
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.Properties.Resources.resources
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.csproj.GenerateResource.Cache
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.exe
+U:\thecodingguys\Website\tcg\Files\Main\Projects\AdvancedTextEditorCSharp\AdvancedTextEditorCSharp\obj\Debug\AdvancedTextEditorCSharp.pdb
